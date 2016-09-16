@@ -4,14 +4,13 @@ body{
 }
 
 
-#entete{
+.entete{
 	padding:1px 0;
 	background-color:blue;
 	text-align: center;
 	color: white;
 	font-family: Impact,"Arial Black", Arial, Verdana, sans-serif;
-	border: 3px blue ridge;
-	box-shadow: 6px 6px 6px black;
+	border: 1px blue ridge;
 	text-shadow: 2px 2px 4px black;
 	font-size: 25px;
 }
@@ -25,7 +24,6 @@ body{
 	text-align: center;
 	color: black;
 	font-family: Impact,"Arial Black", Arial, Verdana, sans-serif;
-	box-shadow: 6px 6px 6px black;
 	text-shadow: 0.5px 0.5px 1px black;
 	font-size: 16px;
 	width: 450px;
@@ -33,12 +31,29 @@ body{
 
 .aside2{
 
-	text-align: center; 
+	text-align: center;
 	font-family: Impact,"Arial Black", Arial, Verdana, sans-serif;
 	color: black;
 	font-size: 18px;
+    
+}
+
+.aside{
+
+
+	text-align: center;
+	font-family: Impact,"Arial Black", Arial, Verdana, sans-serif;
+	color: black;
+	font-size: 18px;
+	background-color: white;
+	background-color: #D3D3D3;
+
 
 }
+
+
+
+
 
 .big-shadow{
 	text-align: center;
@@ -57,9 +72,10 @@ body{
 
 .bloc{
 
-	box-shadow: 6px 6px 6px black;
-	text-align: center;
+	
 	background-color: white;
 	background-color: #D3D3D3;
+	
+
 }
 
