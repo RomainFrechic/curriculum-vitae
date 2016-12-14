@@ -1,16 +1,16 @@
 body{
 
-	background-color: #87CEEB ;
+	background-color:white ;
 }
 
 
 .entete{
 	padding:1px 0;
-	background-color:blue;
+	background-color:#30A9DE;
 	text-align: center;
 	color: white;
 	font-family: Impact,"Arial Black", Arial, Verdana, sans-serif;
-	border: 1px blue ridge;
+	border: 1px #30A9DE ridge;
 	text-shadow: 2px 2px 4px black;
 	font-size: 25px;
 }
@@ -59,13 +59,13 @@ body{
 	text-align: center;
 	font-size: 32px;
 	text-shadow: 2px 2px 4px black;
-	color:blue;
+	color:#30A9DE;
 }
 
 .big-text{
 	text-align: center;
 	font-family: Impact,"Arial Black", Arial, Verdana, sans-serif;
-	color:#000080;
+	color:#8b8687;
 	font-weight: bolder;
 	font-size: 22px;
 }
